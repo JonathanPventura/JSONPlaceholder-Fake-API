@@ -1,0 +1,14 @@
+{
+  "packages": [
+    {
+      "id": 1, 
+      "nome": "Rafael", 
+      "bloco": 8, 
+      "apartamento": 503,
+      "codigo":"01",
+      "quantidade":"1",
+      "recebido": "2023-05-23",
+      "entregue":"2023-05-23"
+    }
+  ]
+}
